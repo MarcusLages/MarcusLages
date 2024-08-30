@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus Lages</h1>
-<h3 align="center">An enthusiastic developer from Brazil currently based in Vancouver, Canada.</h3>
+<h3 align="center">Aspiring developer and BCIT Computer Systems student from Brazil currently based in Vancouver, Canada.</h3>
 
 - 🔭 My last project was [no-name-game](https://github.com/MarcusLages/no-name-game)
 

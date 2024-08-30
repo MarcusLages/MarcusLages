@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, React native (JS) and node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MarcusLages](https://github.com/MarcusLages)
+- 👨‍💻 All of my projects and contact are available at my [linktr.ee](https://linktr.ee/MarcusLages)
 
 - 📫 Reach me through my email **marcusvlages@gmail.com**
 

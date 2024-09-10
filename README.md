@@ -3,7 +3,7 @@
 
 - 🔭 My last project was [no-name-game](https://github.com/MarcusLages/no-name-game)
 
-- 🌱 I’m currently learning **C, React native (JS) and node.js**
+- 🌱 I’m currently learning **C, Java and x86-64 assembly**
 
 - 👨‍💻 All of my projects and contact are available at my [linktr.ee](https://linktr.ee/MarcusLages)
 

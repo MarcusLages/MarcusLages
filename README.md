@@ -3,7 +3,7 @@
 
 - 🔭 My last project was [no-name-game](https://github.com/MarcusLages/no-name-game)
 
-- 🌱 I’m currently learning **C/C++ and x64 MASM**
+- 🌱 I’m currently learning **C/C++ and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarcusLages](https://github.com/MarcusLages)
 

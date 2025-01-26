@@ -3,7 +3,7 @@
 
 - 🔭 My last project was [no-name-game](https://github.com/MarcusLages/no-name-game)
 
-- 🌱 I’m currently working on my **C**, while learning **Python**, **Kotlin** and **OCaml**
+- 🌱 I’m currently working on **C**, while learning **Python**, **Kotlin** and **OCaml**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarcusLages](https://github.com/MarcusLages)
 

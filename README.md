@@ -1,5 +1,5 @@
 -+-<h1 align="center">It's a-me Marcus</h1>
-<h3 align="center">Brazilian game developer currently based in Vancouver, Canada.</h3>
+<h3 align="center">Software developer based in Vancouver, Canada.</h3>
 
 - 🔭 My last project was [no-name-game](https://github.com/MarcusLages/no-name-game)
 

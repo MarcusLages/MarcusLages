@@ -1,7 +1,7 @@
 -+-<h1 align="center">It's a-me Marcus</h1>
 <h3 align="center">Software developer based in Vancouver, Canada.</h3>
 
-- 🔭 My last project was [no-name-game](https://github.com/MarcusLages/no-name-game)
+- 🔭 My last project was my [Vulkan terminal renderer](https://github.com/MarcusLages/vk-renderer)
 
 - 🌱 I’m currently working on **a graphic renderer on C++**, but I have projects using **Python**, **Elixir**, **C**, **Go**, etc.
 
